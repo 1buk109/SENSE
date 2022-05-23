@@ -1,5 +1,7 @@
 # SENSE
 Siamese neural network for sequence embedding
+### original repository
+> https://github.com/vitmy0000/SENSE
 
 ## Code Organization
 
